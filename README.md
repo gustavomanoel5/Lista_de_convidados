@@ -7,6 +7,8 @@ O progeto consiste em uma lista de convidados, o seu orincipal objetivo é valid
 
 # Interface web
 ![image](https://github.com/gustavomanoel5/Lista_de_convidados/assets/137355451/761b0f37-cf8f-4697-aaaa-b91be152cacc)
+![image](https://github.com/gustavomanoel5/Lista_de_convidados/assets/137355451/9ba0826c-37ce-48df-a7ad-cecf0cabf5f6)
+
 
 # Tecnologias utilizadas
 - HTML
